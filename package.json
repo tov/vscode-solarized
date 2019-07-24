@@ -1,12 +1,12 @@
 {
     "name": "vscode-solarized",
-    "displayName": "Braver's Solarized",
-    "description": "The best Solarized theme for VS Code",
+    "displayName": "Rieux's Solarized",
+    "description": "The third best Solarized theme for VS Code",
     "version": "2.0.2",
-    "publisher": "Braver",
+    "publisher": "Jesse Tov",
     "repository": {
         "type": "git",
-        "url": "https://github.com/braver/vscode-solarized.git"
+        "url": "https://github.com/tov/vscode-solarized.git"
     },
     "engines": {
         "vscode": "^1.5.0"
@@ -21,24 +21,24 @@
     "contributes": {
         "themes": [
             {
-                "label": "Braver's Solarized Light",
+                "label": "Rieux's Solarized Light",
                 "uiTheme": "vs",
-                "path": "./themes/braver-solarized-light-color-theme.json"
+                "path": "./themes/rieux-solarized-light-color-theme.json"
             },
             {
-                "label": "Braver's Solarized Dark",
+                "label": "Rieux's Solarized Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/braver-solarized-dark-color-theme.json"
+                "path": "./themes/rieux-solarized-dark-color-theme.json"
             },
             {
-                "label": "Braver's Solarized Light (themed workbench)",
+                "label": "Rieux's Solarized Light (themed workbench)",
                 "uiTheme": "vs",
-                "path": "./themes/braver-solarized-light-with-workbench-color-theme.json"
+                "path": "./themes/rieux-solarized-light-with-workbench-color-theme.json"
             },
             {
-                "label": "Braver's Solarized Dark (themed workbench)",
+                "label": "Rieux's Solarized Dark (themed workbench)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/braver-solarized-dark-with-workbench-color-theme.json"
+                "path": "./themes/rieux-solarized-dark-with-workbench-color-theme.json"
             }
         ]
     }
